@@ -35,3 +35,10 @@ That includes experimenting with different models, scheduled tasks, and multi-ag
 - [Pika Starter Kit](https://github.com/itskevinrafaell/pika-starter-kit): a Laravel and Filament starting point with shared plugin configuration.
 
 </details>
+
+### A little snack for the contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+  <img src="assets/contributions.svg" width="100%" alt="Animated snake moving through my GitHub contribution graph. Updated daily." />
+</picture>
