@@ -11,9 +11,9 @@ I build software for procurement, agency operations, and content production. Som
 
 | Project | What it does | Source |
 | :--- | :--- | :--- |
-| **TemanPengadaan** | Project requirements, product sourcing, quotation comparison, and recorded procurement decisions. | Private |
+| **[TemanPengadaan](https://github.com/itskevinrafaell/temanpengadaan-showcase)** | Project requirements, product sourcing, quotation comparison, and recorded procurement decisions. | Private |
 | **[Kantor Teman](https://github.com/itskevinrafaell/kantor-teman)** | Leads, proposals, project boards, and agency finance. | Public |
-| **Office Kantor Teman** | Social content and carousel production with AI-assisted workflows. | Private |
+| **[Office Kantor Teman](https://github.com/itskevinrafaell/office-kantor-teman-showcase)** | Social content and carousel production with AI-assisted workflows. | Private |
 | **[Teman UMKM Kita](https://github.com/itskevinrafaell/temanumkmkita)** | Business website, publishing CMS, and CRM-connected contact forms. | Public |
 
 ### AI in my workflow
