@@ -1,4 +1,4 @@
-<img src="assets/editorial.svg" width="100%" alt="Kevin Rafael. Software for the business behind it. Building with AI." />
+<img src="assets/poppins-header.png" width="100%" alt="Kevin Rafael. Business software. Built with AI. Procurement, agency operations, content production." />
 
 # Hi, I'm Kevin.
 
@@ -7,6 +7,8 @@ I build software for business operations: **procurement, agency management, and 
 [Teman UMKM Kita](https://temanumkmkita.com) · [Public repositories](https://github.com/ItsKevinRafaell?tab=repositories)
 
 ## Business software I'm building
+
+<img src="assets/poppins-projects.png" width="100%" alt="Featured work: TemanPengadaan (private), Kantor Teman (public), Office Kantor Teman (private), Teman UMKM Kita (public)." />
 
 ### 01 / TemanPengadaan &nbsp; <sub>PRIVATE SOURCE</sub>
 
