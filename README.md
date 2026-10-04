@@ -1,62 +1,44 @@
-<p align="center"><samp>BUSINESS SOFTWARE · WEB & MOBILE · APPLIED AI</samp></p>
-
-<h1 align="center">Kevin Rafael</h1>
-
-<p align="center">I build software for the work behind a business.</p>
+<a href="https://temanumkmkita.com"><img src="assets/hero.svg" width="100%" alt="Kevin Rafael — From business problem to working software. Full-stack products, workflow automation, applied AI." /></a>
 
 <p align="center">
-  <a href="https://temanumkmkita.com">Teman UMKM Kita</a> &nbsp; / &nbsp;
-  <a href="https://github.com/ItsKevinRafaell?tab=repositories">Repositories</a>
+  <a href="https://temanumkmkita.com"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-68f5cf?style=for-the-badge&logo=googlechrome&logoColor=09111f" alt="Explore my work" /></a>
+  <a href="https://github.com/ItsKevinRafaell?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-172638?style=for-the-badge&logo=github&logoColor=ffffff" alt="Browse repositories" /></a>
 </p>
 
----
+## Building beyond the interface
 
-My projects range from agency operations and content management to mobile apps and computer vision research. I work across the interface, API, and database rather than treating them as separate products.
+I'm Kevin. I build **business software that connects the whole workflow**: the interface people use, the API behind it, and the data that keeps it running. My projects also cover mobile development and computer vision research.
 
-### Selected work
+**Main focus:** agency operations, publishing systems, and automation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/ItsKevinRafaell/kantor-teman">Kantor Teman</a></h3>
-<p>Agency CRM that brings leads, proposals, project boards, and finances into one dashboard.</p>
-<p><sub>Next.js · TypeScript · FastAPI · SQLAlchemy</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/ItsKevinRafaell/temanumkmkita">Teman UMKM Kita</a></h3>
-<p>A business website with a custom publishing CMS, portfolio management, and CRM-connected contact forms.</p>
-<p><sub>Next.js · FastAPI · MySQL</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/ItsKevinRafaell/bisindo-bridge">BISINDO Bridge</a></h3>
-<p>Research prototype for recognizing static BISINDO fingerspelling gestures using hand landmarks and a 1D CNN. Includes training code, evaluation reports, and documented limitations.</p>
-<p><sub>Python · PyTorch · MediaPipe</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/ItsKevinRafaell/pika-starter-kit">Pika Starter Kit</a></h3>
-<p>A Laravel and Filament starting point with centralized plugin configuration for permissions, settings, themes, and health monitoring.</p>
-<p><sub>PHP · Laravel · Filament</sub></p>
-</td>
-</tr>
-</table>
+<br />
 
-### Tools I work with
+## Featured builds
 
-| Area | Stack |
-| :--- | :--- |
-| Web | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
-| Backend | Python, FastAPI, Go, PHP, Laravel |
-| Mobile | Dart, Flutter |
-| Data & ML | MySQL, SQLite, SQLAlchemy, PyTorch, MediaPipe |
+<a href="https://github.com/ItsKevinRafaell/kantor-teman"><img src="assets/kantor.svg" width="49%" alt="Kantor Teman: agency CRM for leads, proposals, projects and finance. Next.js, FastAPI, SQLAlchemy." /></a>
+<a href="https://github.com/ItsKevinRafaell/temanumkmkita"><img src="assets/umkm.svg" width="49%" alt="Teman UMKM Kita: business website and custom publishing CMS. Next.js, FastAPI, MySQL." /></a>
+<br />
+<a href="https://github.com/ItsKevinRafaell/bisindo-bridge"><img src="assets/bisindo.svg" width="49%" alt="BISINDO Bridge: research prototype for static fingerspelling recognition. PyTorch, MediaPipe, Python." /></a>
+<a href="https://github.com/ItsKevinRafaell/pika-starter-kit"><img src="assets/pika.svg" width="49%" alt="Pika Starter Kit: Laravel and Filament tooling with centralized plugins and permissions." /></a>
 
-### Take a closer look
+### What to look at
 
-- **Business workflows:** [Kantor Teman](https://github.com/ItsKevinRafaell/kantor-teman#readme)
-- **Research and its limits:** [BISINDO Bridge](https://github.com/ItsKevinRafaell/bisindo-bridge/blob/main/docs/LIMITATIONS.md)
-- **Reusable tooling:** [Pika Starter Kit](https://github.com/ItsKevinRafaell/pika-starter-kit#readme)
+- **Kantor Teman:** the connected workflow, from lead capture to project delivery and finance.
+- **BISINDO Bridge:** reproducible training code, evaluation reports, and [documented limitations](https://github.com/ItsKevinRafaell/bisindo-bridge/blob/main/docs/LIMITATIONS.md). A research prototype, not a production sign-language translator.
+- **Pika Starter Kit:** shared plugin configuration instead of repeated panel setup.
+
+<br />
+
+## My toolkit
+
+<img src="assets/stack.svg" width="660" alt="TypeScript, React, Next.js, Tailwind CSS, Python, FastAPI, Go, Laravel, Flutter, MySQL, PyTorch" />
+
+<br />
+
+**Web & backend** &nbsp; TypeScript · Next.js · FastAPI · Go · Laravel  
+**Mobile** &nbsp; Dart · Flutter  
+**Data & research** &nbsp; MySQL · SQLite · PyTorch · MediaPipe
 
 ---
 
-<p align="center"><sub>Kevin Rafael · <a href="https://github.com/ItsKevinRafaell">@ItsKevinRafaell</a></sub></p>
+<p align="center"><b>Explore the code. See how the pieces fit.</b><br /><sub><a href="https://temanumkmkita.com">temanumkmkita.com</a> · <a href="https://github.com/ItsKevinRafaell?tab=repositories">All repositories</a></sub></p>
