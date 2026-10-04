@@ -1,44 +1,67 @@
-<a href="https://temanumkmkita.com"><img src="assets/hero.svg" width="100%" alt="Kevin Rafael — From business problem to working software. Full-stack products, workflow automation, applied AI." /></a>
+<img src="assets/editorial.svg" width="100%" alt="Kevin Rafael. Software for the business behind it. Building with AI." />
 
-<p align="center">
-  <a href="https://temanumkmkita.com"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-68f5cf?style=for-the-badge&logo=googlechrome&logoColor=09111f" alt="Explore my work" /></a>
-  <a href="https://github.com/ItsKevinRafaell?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-172638?style=for-the-badge&logo=github&logoColor=ffffff" alt="Browse repositories" /></a>
-</p>
+# Hi, I'm Kevin.
 
-## Building beyond the interface
+I build software for business operations: **procurement, agency management, and content production.** I work on the product and the code, with AI tools as part of my development, research, and automation workflow.
 
-I'm Kevin. I build **business software that connects the whole workflow**: the interface people use, the API behind it, and the data that keeps it running. My projects also cover mobile development and computer vision research.
+[Teman UMKM Kita](https://temanumkmkita.com) · [Public repositories](https://github.com/ItsKevinRafaell?tab=repositories)
 
-**Main focus:** agency operations, publishing systems, and automation.
+## Business software I'm building
 
-<br />
+### 01 / TemanPengadaan &nbsp; <sub>PRIVATE SOURCE</sub>
 
-## Featured builds
+A workspace for internal procurement decisions. Organize project requirements, source products, compare supplier quotations and marketplace references, and keep the reasoning behind a purchasing decision.
 
-<a href="https://github.com/ItsKevinRafaell/kantor-teman"><img src="assets/kantor.svg" width="49%" alt="Kantor Teman: agency CRM for leads, proposals, projects and finance. Next.js, FastAPI, SQLAlchemy." /></a>
-<a href="https://github.com/ItsKevinRafaell/temanumkmkita"><img src="assets/umkm.svg" width="49%" alt="Teman UMKM Kita: business website and custom publishing CMS. Next.js, FastAPI, MySQL." /></a>
-<br />
-<a href="https://github.com/ItsKevinRafaell/bisindo-bridge"><img src="assets/bisindo.svg" width="49%" alt="BISINDO Bridge: research prototype for static fingerspelling recognition. PyTorch, MediaPipe, Python." /></a>
-<a href="https://github.com/ItsKevinRafaell/pika-starter-kit"><img src="assets/pika.svg" width="49%" alt="Pika Starter Kit: Laravel and Filament tooling with centralized plugins and permissions." /></a>
-
-### What to look at
-
-- **Kantor Teman:** the connected workflow, from lead capture to project delivery and finance.
-- **BISINDO Bridge:** reproducible training code, evaluation reports, and [documented limitations](https://github.com/ItsKevinRafaell/bisindo-bridge/blob/main/docs/LIMITATIONS.md). A research prototype, not a production sign-language translator.
-- **Pika Starter Kit:** shared plugin configuration instead of repeated panel setup.
-
-<br />
-
-## My toolkit
-
-<img src="assets/stack.svg" width="660" alt="TypeScript, React, Next.js, Tailwind CSS, Python, FastAPI, Go, Laravel, Flutter, MySQL, PyTorch" />
-
-<br />
-
-**Web & backend** &nbsp; TypeScript · Next.js · FastAPI · Go · Laravel  
-**Mobile** &nbsp; Dart · Flutter  
-**Data & research** &nbsp; MySQL · SQLite · PyTorch · MediaPipe
+**Focus:** sourcing, quotation comparison, and traceable decisions.
 
 ---
 
-<p align="center"><b>Explore the code. See how the pieces fit.</b><br /><sub><a href="https://temanumkmkita.com">temanumkmkita.com</a> · <a href="https://github.com/ItsKevinRafaell?tab=repositories">All repositories</a></sub></p>
+### 02 / Kantor Teman &nbsp; <sub>PUBLIC REPOSITORY</sub>
+
+Agency operations in one place: leads, proposals, project boards, and finance. The work starts before a deal closes and continues through delivery.
+
+**Focus:** CRM and day-to-day agency operations.  
+[Browse the repository](https://github.com/ItsKevinRafaell/kantor-teman)
+
+---
+
+### 03 / Office Kantor Teman &nbsp; <sub>PRIVATE SOURCE</sub>
+
+A creative workspace for social content and carousel production, with AI-assisted content workflows.
+
+**Focus:** content production and creative tools.
+
+---
+
+### 04 / Teman UMKM Kita &nbsp; <sub>PUBLIC REPOSITORY</sub>
+
+A business website with a custom CMS for articles, services, and portfolio content, plus contact forms connected to the CRM.
+
+**Focus:** the public-facing side of the business.  
+[Visit the website](https://temanumkmkita.com) · [Browse the repository](https://github.com/ItsKevinRafaell/temanumkmkita)
+
+> Some of my business projects have private source code. This profile describes their scope; the public repositories only show part of my work.
+
+## AI is part of how I work
+
+I use multiple AI tools for coding, research, document review, and workflow automation. I also experiment with different models and agent setups rather than using one tool for every task.
+
+- **Claude / Claude Code** for document review and AI-assisted development.
+- **Hermes Agent** for tool-based workflows, scheduled tasks, and multi-agent automation.
+- **Model APIs** for integrating AI into applications and comparing models across tasks.
+
+## Development stack
+
+<img src="assets/stack.svg" width="660" alt="TypeScript, React, Next.js, Tailwind CSS, Python, FastAPI, Go, Laravel, Flutter, MySQL, PyTorch" />
+
+**Web & backend:** TypeScript, Next.js, Python, FastAPI, Go, PHP, Laravel.  
+**Mobile:** Dart, Flutter.  
+**Data & research:** MySQL, SQLite, PyTorch, MediaPipe.
+
+<details>
+<summary>Other work: research and developer tooling</summary>
+
+- [BISINDO Bridge](https://github.com/ItsKevinRafaell/bisindo-bridge): a research prototype for static fingerspelling recognition, with training code and documented limitations.
+- [Pika Starter Kit](https://github.com/ItsKevinRafaell/pika-starter-kit): Laravel and Filament tooling with centralized plugin configuration.
+
+</details>
