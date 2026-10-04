@@ -1,69 +1,37 @@
-<img src="assets/poppins-header.png" width="100%" alt="Kevin Rafael. Business software. Built with AI. Procurement, agency operations, content production." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fun-dark.png" />
+  <img src="assets/fun-light.png" width="100%" alt="itskevinrafaell — building business tools, experimenting with AI. A small robot waves from behind a laptop." />
+</picture>
 
-# Hi, I'm Kevin.
+[website](https://temanumkmkita.com) · [repositories](https://github.com/itskevinrafaell?tab=repositories)
 
-I build software for business operations: **procurement, agency management, and content production.** I work on the product and the code, with AI tools as part of my development, research, and automation workflow.
+I build software for procurement, agency operations, and content production. Some projects live in private repositories; here's what I'm working on.
 
-[Teman UMKM Kita](https://temanumkmkita.com) · [Public repositories](https://github.com/ItsKevinRafaell?tab=repositories)
+### The business stuff
 
-## Business software I'm building
+| Project | What it does | Source |
+| :--- | :--- | :--- |
+| **TemanPengadaan** | Project requirements, product sourcing, quotation comparison, and recorded procurement decisions. | Private |
+| **[Kantor Teman](https://github.com/itskevinrafaell/kantor-teman)** | Leads, proposals, project boards, and agency finance. | Public |
+| **Office Kantor Teman** | Social content and carousel production with AI-assisted workflows. | Private |
+| **[Teman UMKM Kita](https://github.com/itskevinrafaell/temanumkmkita)** | Business website, publishing CMS, and CRM-connected contact forms. | Public |
 
-<img src="assets/poppins-projects.png" width="100%" alt="Featured work: TemanPengadaan (private), Kantor Teman (public), Office Kantor Teman (private), Teman UMKM Kita (public)." />
+### AI in my workflow
 
-### 01 / TemanPengadaan &nbsp; <sub>PRIVATE SOURCE</sub>
+I use multiple AI tools for development, research, document review, and automation:
 
-A workspace for internal procurement decisions. Organize project requirements, source products, compare supplier quotations and marketplace references, and keep the reasoning behind a purchasing decision.
+**Claude / Claude Code** · **Hermes Agent** · **model APIs**
 
-**Focus:** sourcing, quotation comparison, and traceable decisions.
+That includes experimenting with different models, scheduled tasks, and multi-agent workflows. AI is part of how I work, not just a feature label on my projects.
 
----
+### Tools on my desk
 
-### 02 / Kantor Teman &nbsp; <sub>PUBLIC REPOSITORY</sub>
-
-Agency operations in one place: leads, proposals, project boards, and finance. The work starts before a deal closes and continues through delivery.
-
-**Focus:** CRM and day-to-day agency operations.  
-[Browse the repository](https://github.com/ItsKevinRafaell/kantor-teman)
-
----
-
-### 03 / Office Kantor Teman &nbsp; <sub>PRIVATE SOURCE</sub>
-
-A creative workspace for social content and carousel production, with AI-assisted content workflows.
-
-**Focus:** content production and creative tools.
-
----
-
-### 04 / Teman UMKM Kita &nbsp; <sub>PUBLIC REPOSITORY</sub>
-
-A business website with a custom CMS for articles, services, and portfolio content, plus contact forms connected to the CRM.
-
-**Focus:** the public-facing side of the business.  
-[Visit the website](https://temanumkmkita.com) · [Browse the repository](https://github.com/ItsKevinRafaell/temanumkmkita)
-
-> Some of my business projects have private source code. This profile describes their scope; the public repositories only show part of my work.
-
-## AI is part of how I work
-
-I use multiple AI tools for coding, research, document review, and workflow automation. I also experiment with different models and agent setups rather than using one tool for every task.
-
-- **Claude / Claude Code** for document review and AI-assisted development.
-- **Hermes Agent** for tool-based workflows, scheduled tasks, and multi-agent automation.
-- **Model APIs** for integrating AI into applications and comparing models across tasks.
-
-## Development stack
-
-<img src="assets/stack.svg" width="660" alt="TypeScript, React, Next.js, Tailwind CSS, Python, FastAPI, Go, Laravel, Flutter, MySQL, PyTorch" />
-
-**Web & backend:** TypeScript, Next.js, Python, FastAPI, Go, PHP, Laravel.  
-**Mobile:** Dart, Flutter.  
-**Data & research:** MySQL, SQLite, PyTorch, MediaPipe.
+<img src="assets/stack.svg" width="550" alt="TypeScript, React, Next.js, Tailwind CSS, Python, FastAPI, Go, Laravel, Flutter, MySQL, PyTorch" />
 
 <details>
-<summary>Other work: research and developer tooling</summary>
+<summary>Side quests: research and reusable tools</summary>
 
-- [BISINDO Bridge](https://github.com/ItsKevinRafaell/bisindo-bridge): a research prototype for static fingerspelling recognition, with training code and documented limitations.
-- [Pika Starter Kit](https://github.com/ItsKevinRafaell/pika-starter-kit): Laravel and Filament tooling with centralized plugin configuration.
+- [BISINDO Bridge](https://github.com/itskevinrafaell/bisindo-bridge): static fingerspelling recognition research using PyTorch and MediaPipe. Prototype, with documented limitations.
+- [Pika Starter Kit](https://github.com/itskevinrafaell/pika-starter-kit): a Laravel and Filament starting point with shared plugin configuration.
 
 </details>
